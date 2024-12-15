@@ -12,7 +12,7 @@ Use this repository as a central hub to navigate all the related repositories in
 
 ### Agent Repository ([eliza](https://github.com/tomasCalletce/eliza))
 - **What we built**: A new plugin for the AI16z **Eliza Agent Framework**.
-- **Purpose**: This plugin extends Eliza's capabilities, and adds a vc character.
+- **Purpose**: This plugin extends Eliza's capabilities and adds a vc character.
 
 ### Frontend Repository ([helpful-vc-frontend](https://github.com/DavidZapataOh/helpful-vc-frontend))
 - **What we built**: A **Vite application** designed for mentors.
@@ -20,5 +20,6 @@ Use this repository as a central hub to navigate all the related repositories in
 
 ### Contracts Repository ([fhevm-hardhat-template](https://github.com/DavidZapataOh/fhevm-hardhat-template))
 - **What we built**: A custom **ERC20 token** implementation.
-  - **Private Balance**: A confidential balance for secure transactions.
-  - **Public Balance**: A transparent balance for open interactions.
+  - **Private Balance**: A confidential rating balance.
+  - **Public Balance**: A transparent rating balance.
+- **Contract Address**: [0x5BA4a768895B5097D2a6DaE12f1ddA4cD3804A84](https://sepolia.etherscan.io/address/0x5BA4a768895B5097D2a6DaE12f1ddA4cD3804A84)
