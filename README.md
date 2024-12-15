@@ -21,6 +21,5 @@ Use this repository as a central hub to navigate all the related repositories in
 
 ### Contracts Repository ([fhevm-hardhat-template](https://github.com/DavidZapataOh/fhevm-hardhat-template))
 - **What we built**: A custom **ERC20 token** implementation.
-  - **Private Balance**: A confidential rating balance.
-  - **Public Balance**: A transparent rating balance.
+- **Purpose**: Costume ERC20 costume implementation with an encrypted balance and an exposed balance. Users can request to expose their rating balance to the entire community when they are ready.
 - **Contract Address**: [0x5BA4a768895B5097D2a6DaE12f1ddA4cD3804A84](https://sepolia.etherscan.io/address/0x5BA4a768895B5097D2a6DaE12f1ddA4cD3804A84)
